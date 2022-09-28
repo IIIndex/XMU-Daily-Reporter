@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/51276909/156022503-4eb5f6ff-ddc3-4af4-bfa7-8fc8e0a18a27.png)
 
 
-5. 点击`New repository secret`，添加你的个人登录信息。
+5. 点击`New repository secret`，添加你的个人登录信息。 
 
 ![image](https://user-images.githubusercontent.com/51276909/156101931-ea607179-8bec-49ed-871b-f04c965e2b86.png)
 
